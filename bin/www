@@ -8,7 +8,7 @@ import app from "../app.js";
 import degugger from "debug";
 import http from "http";
 
-const debug = degugger('mini-task-api:server');
+const debug = degugger('event-booking-api:server');
 
 /**
  * Get port from environment and store in Express.
